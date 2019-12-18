@@ -1,12 +1,12 @@
 ## Learning Resources 
 A list of learning resources for Computer Science, made and maintained by [MakerGhat](https://makerghat.org/). By no means is this list exhaustive. If you wish to contribute to this repository, please consider starting a PR. If you’re new to GitHub, please refer [this](https://github.com/firstcontributions/first-contributions?source=post_page---------------------------).
 
-## COMPUTER SCIENCE 
+ 
 
 ### Computer Science For School Students 
 - [code.org](https://code.org/)
 - [CS First by Google](https://csfirst.withgoogle.com/s/en/home)
-___
+____ 
 
 
 ### C 
