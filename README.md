@@ -3,9 +3,10 @@ A list of learning resources for Computer Science, made and maintained by [Maker
 
  
 
-### Computer Science For School Students 
+### Computer Science for School Students 
 - [code.org](https://code.org/)
 - [CS First by Google](https://csfirst.withgoogle.com/s/en/home)
+
 ---
 
 
