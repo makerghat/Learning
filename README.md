@@ -87,7 +87,7 @@ ___
 
 ### Data Science 
 - [MLCOURSE.AI](https://mlcourse.ai/) - _recommended_
-- [Data Science by IBM](https://www.coursera.org/professional-certificates/ibm-data-science) (_financial aid avaiable_)
+- [Data Science by IBM](https://www.coursera.org/professional-certificates/ibm-data-science) (_with financial aid_)
 - [Data Science Essentials by Microsoft](https://www.edx.org/course/data-science-essentials) 
 - [Python Data Science Handbook by Jake VanderPlas](https://github.com/jakevdp/PythonDataScienceHandbook) 
 ___
