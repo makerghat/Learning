@@ -112,6 +112,7 @@ A list of learning resources for Computer Science, made and maintained by [Maker
 - [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer) 
 - [Chris Olah's Blog](https://colah.github.io/) (_highly recommended. The blog-posts are a pure delight to read!_) 
 - [Neural Networks and Deep Learning by Michael A. Nielsen](http://neuralnetworksanddeeplearning.com/) 
+- [A course in Machine Learning](http://ciml.info/)
 
 
 
@@ -125,6 +126,7 @@ A list of learning resources for Computer Science, made and maintained by [Maker
 
 ### Natural Language Processing 
 - [CS224n: Natural Language Processing with Deep Learning by Stanford](http://web.stanford.edu/class/cs224n/) 
+- [Speech and Language Processing by Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
 - [A Code-First Introduction to Language Processing by fast.ai](https://www.fast.ai/2019/07/08/fastai-nlp/) 
 - [Natural Language Processing by Udacity](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892) 
 
